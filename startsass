@@ -1,0 +1,1 @@
+sass --load-path=fontawesome/scss --load-path=scss --watch --style=compressed --quiet-deps scss:inc/css 
